@@ -19,12 +19,12 @@
 
 Формула NLL выглядит так:
 
-![img.png](../ml_exam_questions/service_files/img9.png)
+![img.png](service_files/question-4/img9.png)
 
 где:
 
- - ![img.png](../ml_exam_questions/service_files/img10.png) — это истинный результат (0 или 1),
- - ![img.png](../ml_exam_questions/service_files/img11.png)— вероятность, которую предсказала модель для того, что ![img.png](../ml_exam_questions/service_files/img10.png) = 1.
+ - ![img.png](service_files/question-4/img10.png) — это истинный результат (0 или 1),
+ - ![img.png](service_files/question-4/img11.png)— вероятность, которую предсказала модель для того, что ![img.png](service_files/question-4/img10.png) = 1.
 
 #### Зачем это нужно?
 

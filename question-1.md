@@ -15,11 +15,11 @@
     Обозначение: если исходная матрица 𝐴 имеет размер 𝑚 × 𝑛, то транспонированная матрица 𝐴^𝑇 будет иметь размер 𝑛 × 𝑚.
 
  - `Сложение матриц`. Сложение возможно только для матриц одинакового размера (одинаковое количество строк и столбцов). 
-Если ![img.png](../ml_exam_questions/service_files/img.png) и ![img.png](../ml_exam_questions/service_files/img1.png) — две матрицы размером 𝑚 × 𝑛, то их сумма 𝐶 = 𝐴+ 𝐵 также будет 
-иметь размер 𝑚 × 𝑛, и каждый элемент ![img.png](../ml_exam_questions/service_files/img2.png)
+Если ![img.png](service_files/question-1/img.png) и ![img.png](service_files/question-1/img1.png) — две матрицы размером 𝑚 × 𝑛, то их сумма 𝐶 = 𝐴+ 𝐵 также будет 
+иметь размер 𝑚 × 𝑛, и каждый элемент ![img.png](service_files/question-1/img2.png)
 
- - `Умножение матрицы на число` 𝑘 выполняется умножением каждого элемента матрицы на это число. Если ![img.png](../ml_exam_questions/service_files/img3.png) — 
-матрица размером 𝑚 × 𝑛, то результат умножения ![img.png](../ml_exam_questions/service_files/img5.png).
+ - `Умножение матрицы на число` 𝑘 выполняется умножением каждого элемента матрицы на это число. Если ![img.png](service_files/question-1/img3.png) — 
+матрица размером 𝑚 × 𝑛, то результат умножения ![img.png](service_files/question-1/img5.png).
 <br/><br/>
 
 3. Умножение матриц
@@ -32,8 +32,8 @@
 матрица 𝐶 размером 𝑚 × 𝑝.
 
  - `Правило умножения матриц`
-Если ![img.png](../ml_exam_questions/service_files/img4.png), то элемент ![img.png](../ml_exam_questions/service_files/img6.png) в матрице 𝐶 = 𝐴 ⋅ 𝐵 определяется как сумма 
+Если ![img.png](service_files/question-1/img4.png), то элемент ![img.png](service_files/question-1/img6.png) в матрице 𝐶 = 𝐴 ⋅ 𝐵 определяется как сумма 
 произведений элементов 𝑖-й строки матрицы 𝐴 на соответствующие элементы 𝑘-го столбца матрицы 𝐵:
 
-![img.png](../ml_exam_questions/service_files/img7.png)
+![img.png](service_files/question-1/img7.png)
 <br/><br/>
